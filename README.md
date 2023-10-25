@@ -1,6 +1,5 @@
 # PDF-Chatbot
-To start with this you need to Install Required Libraries 
-using:
+To start with this you need to Install Required Libraries using:
 pip install -r requirement.txt
 
 Run the chatbot:
