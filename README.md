@@ -50,7 +50,8 @@
    - Get answers from the chatbot.
 
 3. **Documentations**
-   You can find the model I used, "bert-large-uncased-whole-word-masking-finetuned-squad," on the Hugging Face Model Hub. Here's the link to the model's documentation:[Documentation for "bert-large-uncased-whole-word-masking-finetuned-squad](https://huggingface.co/transformers/model_doc/bert.html#bertforquestionanswering)
+
+    You can find the model I used, "bert-large-uncased-whole-word-masking-finetuned-squad," on the Hugging Face Model Hub. Here's the link to the model's documentation:[Documentation for "bert-large-uncased-whole-word-masking-finetuned-squad](https://huggingface.co/transformers/model_doc/bert.html#bertforquestionanswering)
 
    This documentation provides information about the model, its capabilities, and how to use it for question-answering tasks.
       
