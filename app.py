@@ -16,7 +16,7 @@ with st.sidebar:
     - [Huggindface models](https://huggingface.co/models) LLM model
     ''')
     add_vertical_space(5)
-    st.write('Made with Mehnat')
+    st.write('Made by Developer')
 
 # Creating main fucntion for the uploading the pdf format and model weigths
 def main():
