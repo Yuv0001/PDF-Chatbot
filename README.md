@@ -39,6 +39,7 @@
 
       ```bash
       python app.py
+      streamlit run app.py
       ```
 
    2. Open a web browser and go to `http://localhost:8501`.
